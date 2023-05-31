@@ -27,5 +27,11 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "data":[
+    {
+      "id":"1",
+      "data":"test"
+    }
+  ]
 }
